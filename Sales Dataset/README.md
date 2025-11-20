@@ -54,7 +54,7 @@ The dashboard features several key charts to analyze sales performance across di
 
 
 
-👉 
+
 
 ### 1. Top Sales by Category and Segments (Bar Chart)
 
