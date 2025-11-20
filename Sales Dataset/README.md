@@ -51,7 +51,8 @@ The dashboard features several key charts to analyze sales performance across di
 
 ## 📊 Power BI Dashboard
 
-👉 https://app.powerbi.com/viewr=eyJrIjoiOTE1ODUyNTItOWZjZi00NmQ4LTg2MWQtOWRkMWQ5YWViN2U0IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
+👉 
+https://app.powerbi.com/view?r=eyJrIjoiOTE1ODUyNTItOWZjZi00NmQ4LTg2MWQtOWRkMWQ5YWViN2U0IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
 
 ### 1. Top Sales by Category and Segments (Bar Chart)
 
